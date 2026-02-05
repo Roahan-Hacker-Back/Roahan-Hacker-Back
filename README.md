@@ -1,82 +1,149 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Override+Initiated...;Identity:+Roshan+Hacker;Target:+Full+Stack+Mastery;Accessing+Mainframe...;Welcome+to+my+Encrypted+World." alt="Typing SVG" />
-</div>
+<!-- HEADER BANNER -->
+<h1 align="center">⚡ Roshan-Hacker-Back ⚡</h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px 5px rgba(0, 255, 0, 0.4);" />
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 Achievements Unlocked</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Roahan-Hacker-Back&theme=git_dark&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Builder;Android+App+Creator;Always+Learning+New+Things" />
+</p>
 
 ---
 
-### 📟 Terminal Access: `whoami`
+# 🧠 About Me
 
 ```bash
-root@Roshan-Hacker:~# ./display-info.sh
+> whoami
+Name: Roshan Hacker
+Role: Cyber Security Enthusiast & Developer
+Focus: Android Apps | AI Systems | Web Projects
+Mission: Build Powerful and Smart Systems
+Status: Learning Everyday 🚀
+Warning: Highly Curious Mind at Work ⚠️
+```
 
-> Name:    Roshan Hacker
-> Role:    Cyber Security Enthusiast & Developer
-> OS:      Kali Linux / Windows 11
-> Status:  Encrypting the Web... 
-> Mission: To secure the digital frontier.
-> Warning: Highly curious mind at work.
+---
 
-🛠️ The Arsenal (Tech Stack)
-<div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,python,java,cpp,c,cs,php,mysql,postgres,mongodb,firebase,sqlite,redis%26theme%3Ddark" />
+# 🧰 Tech Arsenal
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,kali,ubuntu,windows,android,git,github,vscode,vim,docker,aws,gcp,azure,netlify,vercel,heroku%26theme%3Ddark" />
+<p align="center">
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,redux,nodejs,express,nextjs,django,flask,bootstrap,tailwind,materialui,sass%26theme%3Ddark" />
-</div>
-📊 System Diagnostics (GitHub Stats)
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRoahan-Hacker-Back%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dfalse" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRoahan-Hacker-Back%26layout%3Dcompact%26theme%3Dradical%26langs_count%3D10%26hide_border%3Dfalse" />
-</a>
-</div>
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRoahan-Hacker-Back%26theme%3Dradical%26hide_border%3Dfalse%26fire%3DDD2727%26ring%3D00FF00%26currStreakNum%3D00FF00" alt="GitHub Streak" />
-</div>
-📈 Contribution Graph (Activity)
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DRoahan-Hacker-Back%26bg_color%3D0d1117%26color%3D00ff00%26line%3D00ff00%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" />
-</div>
-🧩 Random Hacker Quote
-<div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dradical" />
-</div>
-🤝 Establish Secure Connection
-<div align="center">
-<a href="https://instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:roshan@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://github.com/Roahan-Hacker-Back">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%" />
-<h3>System Offline. Disconnecting...</h3>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRoahan-Hacker-Back%26style%3Dflat-square%26color%3D00FF00%26label%3DPROFILE%2BVIEWS" alt="" />
-</div>
+<img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,html,css,js,git,github,linux" />
 
+</p>
 
+---
+
+# ⚙️ Tools I Use
+
+- Kali Linux  
+- Android IDE  
+- Firebase  
+- GitHub  
+- AI Builders  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Hacker-Back&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Hacker-Back&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-Hacker-Back&theme=react-dark"/>
+</p>
+
+---
+
+# 🧪 Current Projects
+
+- Advanced AI Chat System  
+- Android Automation Tools  
+- Firebase Based Apps  
+- Cyber Security Experiments  
+
+---
+
+# 🚀 Future Goals
+
+- Build Full AI Assistant  
+- Create Powerful Android Apps  
+- Launch SaaS Tools  
+- Learn Advanced Security  
+
+---
+
+# 🧠 Random Hacker Quote
+
+> "Security is not a product, it's a mindset."
+
+---
+
+# 🎮 Fun Animation Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Roshan-Hacker-Back">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+# 🧩 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roshan-Hacker-Back&color=blue&style=flat-square">
+</p>
+
+---
+
+# ⚡ System Status
+
+```bash
+Initializing System...
+Loading Modules...
+Access Granted ✔
+Welcome, Roshan Hacker
+```
+
+---
+
+# 🔥 Terminal Style Section
+
+```bash
+root@system:~# access profile
+Loading skills...
+Loading projects...
+Access Complete
+```
+
+---
+
+# 🏆 Achievements
+
+- Built AI Systems  
+- Developed Android Apps  
+- Firebase Integrations  
+- Automation Scripts  
+
+---
+
+# 🎯 Final Note
+
+> Never Stop Building  
+> Never Stop Learning  
+> Never Stop Hacking
